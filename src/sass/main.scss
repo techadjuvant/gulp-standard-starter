@@ -1,0 +1,18 @@
+$body_bg: rgb(168, 224, 69);
+$text_color: rgb(110, 109, 109);
+
+body {
+  background-color: $body_bg;
+  color: $text_color;
+}
+
+.container {
+  width: 90%;
+  margin: 2em auto;
+  display: flex;
+  text-align: center;
+  align-content: center;
+  justify-content: center;
+  flex-direction: column;
+}
+ 

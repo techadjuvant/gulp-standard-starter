@@ -1,0 +1,1 @@
+"use strict";var hello=function(){console.log("Hello Zubaer from index-2")},hi=function(){console.log("Hello I am Motahar Hossain from index-3")};
