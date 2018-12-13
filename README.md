@@ -1,4 +1,4 @@
-# Gulp Task Runner -Standard
+"# gulp-standard-starter" 
 
 It's a standard task runner supported with 
 hot-reloading, 
@@ -97,3 +97,4 @@ And deploy the files in the "build" folder.
 
 
 * ******************* The End ***************** *
+
