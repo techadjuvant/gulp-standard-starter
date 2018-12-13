@@ -1,4 +1,4 @@
-"# gulp-standard-starter" 
+# gulp-standard-starter
 
 It's a standard task runner supported with 
 hot-reloading, 
